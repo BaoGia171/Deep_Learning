@@ -1,5 +1,12 @@
+# Môi trường ảo & Data
 venv/
+**/data/
+
+# Jupyter & Python cache
+.ipynb_checkpoints/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-Practice_1/data/
+
+# TensorBoard logs & Kết quả huấn luyện Hugging Face
+**/runs/
+**/results_exercise2/
